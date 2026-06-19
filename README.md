@@ -153,7 +153,7 @@ Push to main / PR
 - **Vision Models** — Image classification pipeline, data augmentation, preprocessing
 - **Flask / REST API** — 5 production endpoints, error handling, file upload validation
 - **SQL Pipelines** — SQLite prediction logging, indexed queries, aggregate analytics
-- **CI/CD** — GitHub Actions: lint → test → build → deploy (4-stage pipeline)
+- **CI/CD** — GitHub Actions: lint → test → build → deplhoy (4-stage pipeline)
 - **AWS** — ECR image registry, Elastic Beanstalk deployment, Docker containerisation
 
 ---
@@ -162,4 +162,4 @@ Push to main / PR
 
 **Bharadwaj Rachuri** — ML & AI Engineer  
 [br23aay.github.io](https://br23aay.github.io) · [github.com/br23aay](https://github.com/br23aay)  
-*Built during employment at Swayam Ltd, London*
+done by bharadwaj rachuri
